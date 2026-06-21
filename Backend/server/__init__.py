@@ -1,0 +1,1 @@
+"""server — FastAPI application package."""
